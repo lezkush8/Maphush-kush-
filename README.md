@@ -1,2 +1,3 @@
-# Maphush-kush-
-“A custom WhatsApp bot designed for Maphush Kush, featuring personalized commands and automation to enhance your WhatsApp experience.”
+# MAPHUSH KUSH MD
+
+WhatsApp bot rahisi ya binafsi.

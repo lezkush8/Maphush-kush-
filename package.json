@@ -1,0 +1,15 @@
+{
+  "name": "maphush-kush-md",
+  "version": "1.0.0",
+  "description": "MAPHUSH KUSH MD WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MAPHUSH KUSH",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.0"
+  }
+}
